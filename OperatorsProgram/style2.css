@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display|Roboto');
+
+body {
+    background-color: #defc00;
+    color: #2d7c22;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 100;
+}
+.dash-spreadsheet-inner.dash-spreadsheet.dash-empty-01.dash-no-filter.dash-fill-width {
+    padding: 0 20px;
+}
+
+ 
