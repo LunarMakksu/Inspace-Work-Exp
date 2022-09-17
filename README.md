@@ -3,3 +3,5 @@
 
 Tasked with devloping a program that can log commands operators used and store them in a csv file.
  This could then be recalled when highlighted on a data dashboard as 'operator intervention'
+
+Some data has been removed from this repo as it is commercially sensitive.
