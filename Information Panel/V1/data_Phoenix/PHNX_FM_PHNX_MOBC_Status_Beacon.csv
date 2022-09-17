@@ -1,7 +1,0 @@
-Reception date,Reception time,aggregation id,currentImageValue,uptime,mode,adcsMode,adcsState,adcsStatus,ADCS.error,temperature1,sensorMagnetometer[0],sensorMagnetometer[1]
-2021-10-22,12:52:08.543,PHNX_MOBC_Status_Beacon,0,55575,7,4,0,0,0,93,16776868,16777031,1502
-2021-10-22,12:53:47.684,PHNX_MOBC_Status_Beacon,0,55670,7,4,0,0,0,92,16776774,16777144,1366
-2021-10-22,12:55:23.929,PHNX_MOBC_Status_Beacon,0,55765,7,4,0,0,0,92,16776471,432
-2021-10-22,12:56:58.975,PHNX_MOBC_Status_Beacon,0,55860,7,4,0,0,0,92,16776989,396
-2021-10-22,12:58:34.549,PHNX_MOBC_Status_Beacon,0,55955,7,4,0,0,0,95,16777149,590
-2021-10-22,13:00:10.137,PHNX_MOBC_Status_Beacon,0,56050,7,4,0,0,0,95,177,699
