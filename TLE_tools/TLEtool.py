@@ -36,7 +36,6 @@ def calcEpoch(epoch):
     else:
         year = int(2000 + year_idx)
 
-
     epochSplit = str(epoch[2:]).split('.')
 
     day = int(epochSplit[0])
@@ -116,7 +115,3 @@ class calcComponants:
         #checkSum2 = checkSum
 
 # PUT YOUR PRINT COMMANDS HERE
-
-print(calcComponants.Satellite_name)
-print(calcComponants.classification)
-print(calcComponants.launch_num, calcComponants.launch_part, calcComponants.launch_year)
